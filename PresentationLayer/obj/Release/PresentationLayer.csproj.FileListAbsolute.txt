@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\PresentationLayer.exe.config
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\PresentationLayer.exe
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\PresentationLayer.pdb
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\BusinessLayer.exe
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\DataAccessLayer.exe
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\BusinessLayer.pdb
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\BusinessLayer.exe.config
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\DataAccessLayer.exe.config
+C:\Users\admin\Desktop\z\PresentationLayer\obj\Release\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\z\PresentationLayer\obj\Release\PresentationLayer.csproj.CopyComplete
+C:\Users\admin\Desktop\z\PresentationLayer\obj\Release\PresentationLayer.exe
+C:\Users\admin\Desktop\z\PresentationLayer\obj\Release\PresentationLayer.pdb
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\z\PresentationLayer\bin\Release\Newtonsoft.Json.xml

@@ -1,0 +1,27 @@
+C:\Users\admin\Desktop\Project Z\bin\Debug\Project Z.exe.config
+C:\Users\admin\Desktop\Project Z\bin\Debug\Project Z.exe
+C:\Users\admin\Desktop\Project Z\bin\Debug\Project Z.pdb
+C:\Users\admin\Desktop\Project Z\obj\Debug\Project Z.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Project Z\obj\Debug\Project Z.exe
+C:\Users\admin\Desktop\Project Z\obj\Debug\Project Z.pdb
+C:\Users\admin\Desktop\Project Z\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Project Z\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Project Z\obj\Debug\Project Z.csproj.CopyComplete
+C:\Users\admin\Desktop\Project Z\z\bin\Debug\Project Z.exe.config
+C:\Users\admin\Desktop\Project Z\z\bin\Debug\Project Z.exe
+C:\Users\admin\Desktop\Project Z\z\bin\Debug\Project Z.pdb
+C:\Users\admin\Desktop\Project Z\z\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Project Z\z\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Project Z\z\obj\Debug\Project Z.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Project Z\z\obj\Debug\Project Z.csproj.CopyComplete
+C:\Users\admin\Desktop\Project Z\z\obj\Debug\Project Z.exe
+C:\Users\admin\Desktop\Project Z\z\obj\Debug\Project Z.pdb
+C:\Users\admin\Desktop\z\bin\Debug\Project Z.exe.config
+C:\Users\admin\Desktop\z\bin\Debug\Project Z.exe
+C:\Users\admin\Desktop\z\bin\Debug\Project Z.pdb
+C:\Users\admin\Desktop\z\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\z\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\z\obj\Debug\Project Z.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\z\obj\Debug\Project Z.csproj.CopyComplete
+C:\Users\admin\Desktop\z\obj\Debug\Project Z.exe
+C:\Users\admin\Desktop\z\obj\Debug\Project Z.pdb

@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\DataAccessLayer.exe.config
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\DataAccessLayer.exe
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Security.Permissions.dll
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Security.AccessControl.xml
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Security.Permissions.xml
+C:\Users\admin\Desktop\z\DataAccessLayer\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\admin\Desktop\z\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\z\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\admin\Desktop\z\DataAccessLayer\obj\Release\DataAccessLayer.exe
+C:\Users\admin\Desktop\z\DataAccessLayer\obj\Release\DataAccessLayer.pdb

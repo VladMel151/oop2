@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Project Z\obj\Release\Project Z.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Project Z\bin\Release\Project Z.exe.config
+C:\Users\admin\Desktop\Project Z\bin\Release\Project Z.exe
+C:\Users\admin\Desktop\Project Z\bin\Release\Project Z.pdb
+C:\Users\admin\Desktop\Project Z\obj\Release\Project Z.exe
+C:\Users\admin\Desktop\Project Z\obj\Release\Project Z.pdb
